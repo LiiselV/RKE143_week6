@@ -1,0 +1,15 @@
+{
+  "name": "rke143-week6",
+  "version": "1.0.0",
+  "description": "RKE143 Week6",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Juku",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
